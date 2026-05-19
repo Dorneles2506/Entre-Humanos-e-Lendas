@@ -32,7 +32,7 @@ img{
 }
 /* PARÁGRAFOS */
 p {
-    color: #a020f0;
+    color: #9f04ff;
     line-height: 1.6;
     padding: 0.6em 1.2em;
     font-size:larger
@@ -155,7 +155,16 @@ table{
 }
 
 .mouse{
-    transition: 1s;
+    transition: 1.5s;
+    cursor: pointer;
+}
+
+.pares:hover{
+    color: #0037ff;
+}
+
+.pares{
+     transition: 1.5s;
     cursor: pointer;
 }
 
@@ -183,4 +192,18 @@ button {
     border: none;
     border-radius: 0.25em;
     cursor: pointer;
+}
+
+.opção input [type="radio"] {
+    margin-right: 5em;
+}
+
+.opção label {
+    margin-right: 3.5em;
+}
+
+.botoes {
+    display: flex;
+    gap: 0.5em; /* espaço entre os botões */
+    margin-top: 0.8em;
 }

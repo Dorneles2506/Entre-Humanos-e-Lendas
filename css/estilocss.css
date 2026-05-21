@@ -18,7 +18,7 @@ body {
 }
 .center{
     display: flex;
-    justify-content: center;
+     justify-items: center;
 }
 
 .left{

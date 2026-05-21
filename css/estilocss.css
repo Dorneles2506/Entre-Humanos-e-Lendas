@@ -107,8 +107,13 @@ footer{
 }
 .center_text{
     text-align: center;
+    transition:0.3s;
 }
 
+.center_text:hover {
+    color:  #0037ff;
+   
+}
 
 
 #conteudo-secundario p {

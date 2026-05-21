@@ -9,7 +9,7 @@
 
 /* BODY */
 body {
-    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(128, 0, 128));
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),  #8C00FF));
     color: #a020f0;
     font-family: 'Courier New', Verdana, sans-serif;
     padding-top: 5em;
@@ -18,7 +18,8 @@ body {
 }
 .center{
     display: flex;
-     justify-items: center;
+    justify-content: center;
+    justify-items: center;
 }
 
 .left{
@@ -34,7 +35,7 @@ img{
 }
 /* PARÁGRAFOS */
 p {
-    color: #9f04ff;
+    color: #BA4AFF;
     line-height: 1.6;
     padding: 0.6em 1.2em;
     font-size:larger

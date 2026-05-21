@@ -111,7 +111,7 @@ footer{
 }
 
 .center_text:hover {
-    color:  #0037ff;
+    color:   #ff00ff;
    
 }
 
@@ -132,7 +132,7 @@ footer{
   
 }
 
-/* tabela */
+/* tabela e lista*/
 
 table{
     border:double;
@@ -178,6 +178,11 @@ table{
      transition: 1.5s;
     cursor: pointer;
 }
+
+.pares:hover{
+    color:#0037ff
+}
+    
 
 /*formulário */
 

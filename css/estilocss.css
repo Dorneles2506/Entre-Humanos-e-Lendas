@@ -9,10 +9,11 @@
 
 /* BODY */
 body {
-    background-image:linear-gradient(to bottom(rgb(0, 0, 0), rgb(128, 0, 128));
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(128, 0, 128));
     color: #a020f0;
     font-family: 'Courier New', Verdana, sans-serif;
     padding-top: 5em;
+}
     
 }
 .center{

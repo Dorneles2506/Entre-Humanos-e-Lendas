@@ -15,7 +15,6 @@ body {
     padding-top: 5em;
 }
     
-    
 
 .center{
     display: flex;
@@ -159,8 +158,8 @@ table{
 .cap{
     display: flex;
     justify-content: center;
-    width: 100%;
-    
+    width:100%;
+   
     
 }
 

@@ -177,12 +177,12 @@ table{
 .pares{
      transition: 1.5s;
     cursor: pointer;
+    line-height: 1.6;
+    padding: 0.6em 1.2em;
+    font-size:larger
 }
 
-.pares:hover{
-    color:#0037ff
-}
-    
+
 
 /*formulário */
 

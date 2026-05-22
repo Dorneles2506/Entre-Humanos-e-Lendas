@@ -108,6 +108,10 @@ footer{
 .center_text{
     text-align: center;
     transition:0.3s;
+    cursor: pointer;
+     line-height: 1.6;
+    padding: 0.6em 1.2em;
+    font-size:larger;
 }
 
 .center_text:hover {
@@ -175,6 +179,7 @@ table{
 }
 
 .pares{
+    color:#DA8AFF;
      transition: 1.5s;
     cursor: pointer;
      line-height: 1.6;

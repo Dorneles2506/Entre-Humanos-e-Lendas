@@ -175,6 +175,7 @@ table{
 }
 
 .pares{
+    color:#DA8AFF;
      transition: 1.5s;
     cursor: pointer;
      line-height: 1.6;

@@ -9,14 +9,19 @@
 
 /* BODY */
 body {
-    background-color: #000;
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), #8C00FF);
     color: #a020f0;
     font-family: 'Courier New', Verdana, sans-serif;
     padding-top: 5em;
 }
+    
+    
+
 .center{
     display: flex;
     justify-content: center;
+    justify-items: center;
+   
 }
 
 .left{
@@ -32,13 +37,14 @@ img{
 }
 /* PARÁGRAFOS */
 p {
-    color: #9f04ff;
+    color: #DA8AFF;
     line-height: 1.6;
     padding: 0.6em 1.2em;
     font-size:larger
 }
 
 /* CABEÇALHO */
+/*esse elemento acompanha o scroll da página*/
 
 
 header {
@@ -101,8 +107,13 @@ footer{
 }
 .center_text{
     text-align: center;
+    transition:0.3s;
 }
 
+.center_text:hover {
+    color:   #ff00ff;
+   
+}
 
 
 #conteudo-secundario p {
@@ -121,7 +132,7 @@ footer{
   
 }
 
-/* tabela */
+/* tabela e lista*/
 
 table{
     border:double;
@@ -166,7 +177,13 @@ table{
 .pares{
      transition: 1.5s;
     cursor: pointer;
+     line-height: 1.6;
+    padding: 0.6em 1.2em;
+    font-size:larger;
+     text-align: center;
 }
+
+
 
 /*formulário */
 

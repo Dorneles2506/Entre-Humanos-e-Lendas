@@ -9,7 +9,7 @@
 
 /* BODY */
 body {
-    background-image: linear-gradient(to bottom, rgb(0, 0, 0), #8C00FF);
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),#9C1BF0);
     color: #a020f0;
     font-family: 'Courier New', Verdana, sans-serif;
     padding-top: 5em;
@@ -111,7 +111,7 @@ footer{
     cursor: pointer;
      line-height: 1.6;
     padding: 0.6em 1.2em;
-    font-size:large;
+    font-size:large
 }
 
 .center_text:hover {

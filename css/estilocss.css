@@ -13,6 +13,7 @@ body {
     color: #a020f0;
     font-family: 'Courier New', Verdana, sans-serif;
     padding-top: 5em;
+
 }
     
 
@@ -73,8 +74,8 @@ nav ul li a {
     transition: color 0.3s ease;
 }
 
-/* EFEITO HOVER */
-nav ul li a:hover {
+/* Destaca links do menu ao passar o mouse */
+ header nav ul li a:hover {
     color: #a020f0;
 }
 

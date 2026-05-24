@@ -159,10 +159,11 @@ table{
     padding: 0.1;
 }
 
-.cap{
+    .cap img{
     display: flex;
     justify-content: center;
     width:100%;
+    height: auto;
    
     
 }

@@ -142,7 +142,8 @@ footer{
 /* tabela e lista*/
 
 table{
-    border:double;
+    
+    border:solid;
     border-color: #6a0dad;
     width: 100%;
     border-collapse: collapse;

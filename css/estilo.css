@@ -141,11 +141,10 @@ footer{
 
 /* tabela e lista*/
 
-table{
+table, th, td{
     
-    border:solid;
+    border: 0.2rem solid purple;
     border-color: #6a0dad;
-    width: 100%;
     border-collapse: collapse;
     text-align: center;
     

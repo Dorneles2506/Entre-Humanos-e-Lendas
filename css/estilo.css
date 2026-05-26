@@ -148,8 +148,6 @@ table, th, td{
     border-collapse: collapse;
     text-align: center;
     
-    
-    
 }
 
 .capitulos{
@@ -178,6 +176,7 @@ table, th, td{
 .mouse{
     transition: 1.5s;
     cursor: pointer;
+    padding: 1rem;
 }
 
 .pares:hover{
